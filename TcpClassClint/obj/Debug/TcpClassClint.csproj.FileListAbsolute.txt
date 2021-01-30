@@ -1,0 +1,8 @@
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassClint\TcpClassClint\bin\Debug\TcpClassClint.exe.config
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassClint\TcpClassClint\bin\Debug\TcpClassClint.exe
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassClint\TcpClassClint\bin\Debug\TcpClassClint.pdb
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassClint\TcpClassClint\obj\Debug\TcpClassClint.Clint.resources
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassClint\TcpClassClint\obj\Debug\TcpClassClint.Properties.Resources.resources
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassClint\TcpClassClint\obj\Debug\TcpClassClint.csproj.GenerateResource.Cache
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassClint\TcpClassClint\obj\Debug\TcpClassClint.exe
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassClint\TcpClassClint\obj\Debug\TcpClassClint.pdb
